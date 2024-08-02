@@ -1,1 +1,3 @@
-function  (){return 5}
+
+function ret2 (){return 5;}
+
