@@ -1,1 +1,1 @@
-function ret2 (){return 5}
+function  (){return 5}
